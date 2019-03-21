@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "bf7e085d646c3f248f94",
-    "url": "/static/css/main.d85d9859.chunk.css"
+    "revision": "5d9ae49769d80cbbafb7",
+    "url": "/static/css/main.c8c1ae0a.chunk.css"
   },
   {
-    "revision": "bf7e085d646c3f248f94",
-    "url": "/static/js/main.2b8cbca0.chunk.js"
+    "revision": "5d9ae49769d80cbbafb7",
+    "url": "/static/js/main.6a4c1b04.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "49a809bdbf8eb9af3371",
+    "revision": "cc1a7784c13a171da5f4",
     "url": "/static/css/2.c00c332e.chunk.css"
   },
   {
-    "revision": "49a809bdbf8eb9af3371",
-    "url": "/static/js/2.58e88ffd.chunk.js"
+    "revision": "cc1a7784c13a171da5f4",
+    "url": "/static/js/2.ecbec916.chunk.js"
   },
   {
     "revision": "c8b8558111b3ff57b2203be634596b20",
@@ -200,6 +200,10 @@ self.__precacheManifest = [
     "url": "/static/media/virtualbox.9a5400d3.svg"
   },
   {
+    "revision": "6e1a6f9e82b2ffa1049fa7d2c37d82f3",
+    "url": "/static/media/visualstudiocode.6e1a6f9e.svg"
+  },
+  {
     "revision": "9a7a86a89b95d03d85686fad1578790e",
     "url": "/static/media/webpack.9a7a86a8.svg"
   },
@@ -208,8 +212,8 @@ self.__precacheManifest = [
     "url": "/static/media/windows.69aab947.svg"
   },
   {
-    "revision": "3d9f99264633d811fd45d86b8fe877f0",
-    "url": "/static/media/wordpress.3d9f9926.svg"
+    "revision": "04708482b4844a213b963f7bb073f309",
+    "url": "/static/media/wordpress.04708482.svg"
   },
   {
     "revision": "3d8952cca975d96cf87992a7f1451e36",
@@ -252,7 +256,7 @@ self.__precacheManifest = [
     "url": "/static/media/weather.b5000150.jpg"
   },
   {
-    "revision": "f3ba834dfb47e7bc0f54d7339ffee975",
+    "revision": "88cb57726c1dd5ec663f348e74d00adf",
     "url": "/index.html"
   }
 ];
