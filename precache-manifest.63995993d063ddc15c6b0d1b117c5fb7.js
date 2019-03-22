@@ -1,35 +1,75 @@
 self.__precacheManifest = [
   {
-    "revision": "37eb873e7b10968732f0",
-    "url": "/static/css/main.13f71ef4.chunk.css"
+    "revision": "72bd57981cb56335982a",
+    "url": "/static/css/main.3d8ca483.chunk.css"
   },
   {
-    "revision": "37eb873e7b10968732f0",
-    "url": "/static/js/main.ea37b79d.chunk.js"
+    "revision": "72bd57981cb56335982a",
+    "url": "/static/js/main.92e072af.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "a47163a9456534f0305a",
+    "revision": "60f6844f2b1183c8de73",
     "url": "/static/css/2.c00c332e.chunk.css"
   },
   {
-    "revision": "a47163a9456534f0305a",
-    "url": "/static/js/2.b7979e1e.chunk.js"
+    "revision": "60f6844f2b1183c8de73",
+    "url": "/static/js/2.a1a3d989.chunk.js"
+  },
+  {
+    "revision": "3d8952cca975d96cf87992a7f1451e36",
+    "url": "/static/media/face-recognition.3d8952cc.jpg"
+  },
+  {
+    "revision": "1937be7549d9e66d47ad7d0b655c89e6",
+    "url": "/static/media/gallery.1937be75.jpg"
+  },
+  {
+    "revision": "b397a84f189405311f80f2e0ae3b3ccf",
+    "url": "/static/media/gradient.b397a84f.jpg"
+  },
+  {
+    "revision": "e53f1784f8afad0ba706df5e60bd8894",
+    "url": "/static/media/hackathon-3k.e53f1784.jpg"
+  },
+  {
+    "revision": "38cbae249eb89f35f4f202b759322d1e",
+    "url": "/static/media/notes.38cbae24.jpg"
+  },
+  {
+    "revision": "83e5710efc3d213d5c92f0d13368850d",
+    "url": "/static/media/portfolio.83e5710e.jpg"
+  },
+  {
+    "revision": "049524ac16fbc24a360cd94c41b238ee",
+    "url": "/static/media/robo-inc.049524ac.jpg"
+  },
+  {
+    "revision": "f1169c92e9e79d543d666ee28fcc5fd0",
+    "url": "/static/media/shopping.f1169c92.jpg"
+  },
+  {
+    "revision": "9b95afd5003fcc8a730aa49324a947f4",
+    "url": "/static/media/todo.9b95afd5.jpg"
+  },
+  {
+    "revision": "b500015072df64c5829b3afaba94e458",
+    "url": "/static/media/weather.b5000150.jpg"
   },
   {
     "revision": "c8b8558111b3ff57b2203be634596b20",
     "url": "/static/media/adobexd.c8b85581.svg"
   },
   {
-    "revision": "3686f14a6bb56a827e98b134cca90c9e",
-    "url": "/static/media/apache.3686f14a.svg"
+    "revision": "ec4b60f08ec6df5888c62c61cfdb052c",
+    "url": "/static/media/apache.ec4b60f0.svg"
   },
   {
-    "revision": "529bf9cdff934f9ce5f709e3c2e9073d",
-    "url": "/static/media/babel.529bf9cd.svg"
+    "revision": "9ca61009547f9f766edbcdf4ba8f9341",
+    "url": "/static/media/babel.9ca61009.svg"
   },
   {
     "revision": "bb422aa72ce7ef74370bce9541059fdb",
@@ -216,47 +256,11 @@ self.__precacheManifest = [
     "url": "/static/media/wordpress.04708482.svg"
   },
   {
-    "revision": "3d8952cca975d96cf87992a7f1451e36",
-    "url": "/static/media/face-recognition.3d8952cc.jpg"
+    "revision": "d5d0a98a78aa1785f5e0d527c0df68bb",
+    "url": "/static/media/license.d5d0a98a.svg"
   },
   {
-    "revision": "1937be7549d9e66d47ad7d0b655c89e6",
-    "url": "/static/media/gallery.1937be75.jpg"
-  },
-  {
-    "revision": "b397a84f189405311f80f2e0ae3b3ccf",
-    "url": "/static/media/gradient.b397a84f.jpg"
-  },
-  {
-    "revision": "e53f1784f8afad0ba706df5e60bd8894",
-    "url": "/static/media/hackathon-3k.e53f1784.jpg"
-  },
-  {
-    "revision": "38cbae249eb89f35f4f202b759322d1e",
-    "url": "/static/media/notes.38cbae24.jpg"
-  },
-  {
-    "revision": "83e5710efc3d213d5c92f0d13368850d",
-    "url": "/static/media/portfolio.83e5710e.jpg"
-  },
-  {
-    "revision": "049524ac16fbc24a360cd94c41b238ee",
-    "url": "/static/media/robo-inc.049524ac.jpg"
-  },
-  {
-    "revision": "f1169c92e9e79d543d666ee28fcc5fd0",
-    "url": "/static/media/shopping.f1169c92.jpg"
-  },
-  {
-    "revision": "9b95afd5003fcc8a730aa49324a947f4",
-    "url": "/static/media/todo.9b95afd5.jpg"
-  },
-  {
-    "revision": "b500015072df64c5829b3afaba94e458",
-    "url": "/static/media/weather.b5000150.jpg"
-  },
-  {
-    "revision": "ae80c6db5498696263718baa56c74464",
+    "revision": "889709cd38a2184ab0dbb8109fb83971",
     "url": "/index.html"
   }
 ];
