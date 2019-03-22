@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "53c8c89ee8990e6080c7",
-    "url": "/static/css/main.c5c48b4a.chunk.css"
+    "revision": "847c5e31f17aab9bec33",
+    "url": "/static/css/main.1c2cbeca.chunk.css"
   },
   {
-    "revision": "53c8c89ee8990e6080c7",
-    "url": "/static/js/main.09cf5f63.chunk.js"
+    "revision": "847c5e31f17aab9bec33",
+    "url": "/static/js/main.fb6aba07.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -256,7 +256,7 @@ self.__precacheManifest = [
     "url": "/static/media/weather.b5000150.jpg"
   },
   {
-    "revision": "df2dae8c124974e4b98d5225e73e5aff",
+    "revision": "fea1dd11d4e9b3f6bf910fc482bfda81",
     "url": "/index.html"
   }
 ];
