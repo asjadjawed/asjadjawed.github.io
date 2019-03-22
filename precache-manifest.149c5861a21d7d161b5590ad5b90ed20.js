@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5d9ae49769d80cbbafb7",
-    "url": "/static/css/main.c8c1ae0a.chunk.css"
+    "revision": "53c8c89ee8990e6080c7",
+    "url": "/static/css/main.c5c48b4a.chunk.css"
   },
   {
-    "revision": "5d9ae49769d80cbbafb7",
-    "url": "/static/js/main.6a4c1b04.chunk.js"
+    "revision": "53c8c89ee8990e6080c7",
+    "url": "/static/js/main.09cf5f63.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -124,8 +124,8 @@ self.__precacheManifest = [
     "url": "/static/media/materialize.fe397f2a.svg"
   },
   {
-    "revision": "b1847af9e7cf00cbe2d44e9fa173d281",
-    "url": "/static/media/mongodb.b1847af9.svg"
+    "revision": "52783a2f8043e237279093badadc9cf1",
+    "url": "/static/media/mongodb.52783a2f.svg"
   },
   {
     "revision": "d10a4af104744115b30b3d4ff0abfc79",
@@ -256,7 +256,7 @@ self.__precacheManifest = [
     "url": "/static/media/weather.b5000150.jpg"
   },
   {
-    "revision": "88cb57726c1dd5ec663f348e74d00adf",
+    "revision": "df2dae8c124974e4b98d5225e73e5aff",
     "url": "/index.html"
   }
 ];
