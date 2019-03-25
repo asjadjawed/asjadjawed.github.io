@@ -260,7 +260,7 @@ self.__precacheManifest = [
     "url": "/static/media/license.d5d0a98a.svg"
   },
   {
-    "revision": "97ac3ff91068c6b810b2bcfc3e8c3e45",
+    "revision": "d85e1407a2264ef58f2106249d875f5a",
     "url": "/index.html"
   }
 ];
